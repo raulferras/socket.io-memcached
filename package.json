@@ -1,5 +1,5 @@
 {
-  "name": "socket.io-memcached",
+  "name": "vw-socket.io-memcached",
   "version": "0.0.1",
   "description": "Socket.io 1.x memcached adapter",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:marcofranssen/socket.io-memcached.git"
+    "url": "git@github.com:raulferras/socket.io-memcached.git"
   },
   "keywords": [
     "socket.io",
@@ -16,11 +16,18 @@
     "memcached",
     "adapter"
   ],
-  "author": {
-    "name": "Marco Franssen",
-    "email": "marco.franssen@gmail.com",
-    "url": "http://marcofranssen.nl/about"
-  },
+  "contributors": [
+    {
+        "name": "Marco Franssen",
+        "email": "marco.franssen@gmail.com",
+        "url": "http://marcofranssen.nl/about"
+    },
+    {
+        "name": "Raúl Ferràs",
+        "email": "raul@viscaweb.com",
+        "url": "http://viscaweb.com"
+    },
+  ],
   "licenses": [
     {
       "type": "MIT",
@@ -33,7 +40,7 @@
   "homepage": "https://github.com/marcofranssen/socket.io-memcached",
   "dependencies": {
     "debug": "^1.0.2",
-    "memcached": "^0.2.8",
+    "memcached": "^2.0.0",
     "socket.io-adapter": "^0.3.0"
   },
   "devDependencies": {
