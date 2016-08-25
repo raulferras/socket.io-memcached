@@ -26,7 +26,7 @@
         "name": "Raúl Ferràs",
         "email": "raul@viscaweb.com",
         "url": "http://viscaweb.com"
-    },
+    }
   ],
   "licenses": [
     {
@@ -35,9 +35,9 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/marcofranssen/socket.io-memcached/issues"
+    "url": "https://github.com/raulferras/socket.io-memcached/issues"
   },
-  "homepage": "https://github.com/marcofranssen/socket.io-memcached",
+  "homepage": "https://github.com/raulferras/socket.io-memcached",
   "dependencies": {
     "debug": "^1.0.2",
     "memcached": "^2.0.0",
