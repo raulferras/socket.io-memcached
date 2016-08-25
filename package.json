@@ -1,6 +1,6 @@
 {
   "name": "vw-socket.io-memcached",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Socket.io 1.x memcached adapter",
   "main": "index.js",
   "scripts": {
@@ -18,14 +18,14 @@
   ],
   "contributors": [
     {
-        "name": "Marco Franssen",
-        "email": "marco.franssen@gmail.com",
-        "url": "http://marcofranssen.nl/about"
+      "name": "Marco Franssen",
+      "email": "marco.franssen@gmail.com",
+      "url": "http://marcofranssen.nl/about"
     },
     {
-        "name": "Raúl Ferràs",
-        "email": "raul@viscaweb.com",
-        "url": "http://viscaweb.com"
+      "name": "Raúl Ferràs",
+      "email": "raul@viscaweb.com",
+      "url": "http://viscaweb.com"
     }
   ],
   "licenses": [
